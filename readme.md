@@ -36,7 +36,7 @@ Make a post request with the category, provided as form data with name 'category
 
 ## Response Format
 
-The response JSON Object looks something like this - 
+The response JSON code for this project- 
 
 ```JSON
 {
